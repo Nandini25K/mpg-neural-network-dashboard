@@ -37,3 +37,23 @@ Input Layer → Dense(64) → Dense(64) → Output Layer
 Loss Function: Mean Squared Error
 
 ## Project Structure
+
+mpg-neural-network-dashboard
+│
+├── auto_mpg.csv
+├── mpg_predictions.csv
+├── mpg_prediction_model.ipynb
+├── README.md
+
+## Technologies Used
+
+Python
+TensorFlow / Keras
+Scikit-learn
+Pandas
+Tableau
+
+## Tableau Dashboard
+
+![Dashboard](images/dashboard.png)
+
