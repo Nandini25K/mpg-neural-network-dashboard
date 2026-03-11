@@ -55,5 +55,5 @@ Tableau
 
 ## Tableau Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](imagesdashboard.png)
 
